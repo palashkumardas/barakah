@@ -1,0 +1,4 @@
+[02-Aug-2022 11:18:24 UTC] PHP Warning:  require(/home/u17shag/public_html/testrazikeen/vendor/autoload.php): failed to open stream: No such file or directory in /home/u17shag/public_html/testrazikeen/artisan on line 18
+[02-Aug-2022 11:18:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/u17shag/public_html/testrazikeen/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/u17shag/public_html/testrazikeen/artisan on line 18
+[02-Aug-2022 11:19:00 UTC] PHP Warning:  require(/home/u17shag/public_html/testrazikeen/vendor/autoload.php): failed to open stream: No such file or directory in /home/u17shag/public_html/testrazikeen/artisan on line 18
+[02-Aug-2022 11:19:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/u17shag/public_html/testrazikeen/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/u17shag/public_html/testrazikeen/artisan on line 18
